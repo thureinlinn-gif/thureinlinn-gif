@@ -283,15 +283,11 @@ CS570 Graduate Course
 ### 🚀 Ready for Spring/Summer 2026 Co-op 🚀
 **6-Month Commitment** | **March 2026 - September 2026** | **Full-Time (40 hrs/week)**
 
-[![Schedule a Chat](https://img.shields.io/badge/Schedule_a_Chat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thu-rein-linn-33950221b/)
-[![View Resume](https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tl989@drexel.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thureinlinn.netlify.app/#hero)
 
 **📍 Based in Philadelphia, PA** | **Open to Remote & Relocation**  
 **💼 US Work Authorization** | **🎓 Graduating June 2029**
-
-![Profile Views](https://visitcount.itsvg.in/api?id=thureinlinn-gif&icon=2&color=6)
 
 </div>
 
@@ -301,7 +297,7 @@ CS570 Graduate Course
 
 ### 💼 Open Roles I'm Targeting
 **AI/ML:** AI Developer • ML Engineer • Data Scientist • Research Scientist  
-**Software Engineering:** Full-Stack Developer • Backend Engineer • Software Engineer • QA Engineer  
+**Software Engineering:** Full-Stack Developer • Frontend Engineer •Backend Engineer • Software Engineer • QA Engineer  
 **IT/Systems:** IT Support Specialist • Systems Administrator • Database Administrator • Technical Support
 
 *Interested in discussing opportunities? Let's talk!*
