@@ -67,7 +67,7 @@ class DataAnalyst:
 ## 🎓 Education
 
 **Drexel University** | Philadelphia, PA  
-🎓 Bachelor of Science in Computer Science | **GPA: 3.84** | Expected Graduation: June 2029
+🎓 Bachelor of Science in Computer Science | Expected Graduation: June 2029
 
 **🏆 Honors & Awards:**
 - 📚 Dean's List (Spring 2025)
