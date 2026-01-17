@@ -8,7 +8,7 @@
 
 ### 🎯 Seeking Spring/Summer 2026 Co-op (6 months)
 
-**GPA: 3.84** | Dean's List | STAR Scholar | Expected Graduation: June 2029
+**GPA: 3.8+ | Dean's List | STAR Scholar | Expected Graduation: June 2029
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thu-rein-linn-33950221b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thureinlinn.netlify.app/#hero)
