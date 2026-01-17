@@ -15,38 +15,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trlinn0417@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thureinlinn-gif)
 
-</div>
-
----
-
-## 🚀 About Me
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Thu Rein Linn"
-        self.role = "Data Analyst & Computational Researcher"
-        self.education = "Drexel University - Computer Science"
-        self.graduation = "June 2029"
-        self.location = "Philadelphia, PA"
-        
-    def current_work(self):
-        return {
-            "research": "Vision-Text Feature Alignment @ Algoverse AI",
-            "position": "Software Development Research Assistant @ UPenn",
-            "teaching": "Teaching Assistant @ Drexel University",
-            "focus": ["Data Analytics", "Machine Learning", "Statistical Modeling"]
-        }
-    
-    def skills(self):
-        return {
-            "languages": ["Python", "R", "SQL", "JavaScript", "TypeScript"],
-            "analytics": ["Pandas", "NumPy", "Statistical Analysis", "Data Visualization"],
-            "tools": ["Tableau", "Power BI", "Jupyter", "RStudio", "Git"],
-            "specialties": ["Educational Data", "Computational Neuroscience", "Bibliometrics"]
-        }
-```
-
-<br>
 
 ## 💡 What I'm Up To
 
@@ -144,7 +112,7 @@ Advanced Programming Techniques • Business Statistics • Linear Algebra • C
 - Integrated Telegram chatbot and clinic-locator API
 - **Tech:** Python, Machine Learning, OpenCV, API Integration
 
-### 📊 Interactive Grades Database System
+### 📊 [Interactive Grades Database System](https://github.com/thureinlinn-gif/Interactive-Grades-Database/tree/main/project2)
 **Database Development Project** | Aug 2025 - Dec 2025
 - Database management system with data validation and statistical summaries
 - Ensured data integrity through systematic validation checks
