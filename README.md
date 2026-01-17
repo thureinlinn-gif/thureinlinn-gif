@@ -62,7 +62,7 @@ I'm a **Computer Science student at Drexel University** with a passion for trans
 - 👥 **Collaborative Leadership:** As President of Drexel's Society of Computational Cognitive Neuroscience and a Senator in Student Government, I've learned that the best innovations happen when diverse minds work together.
 
 **🎓 Academic Excellence:**
-- Maintained **3.84 GPA** while balancing research, teaching, and leadership roles
+- Maintained above 3.8 GPA** while balancing research, teaching, and leadership roles
 - **Dean's List** recipient and **STAR Scholar** (competitive summer research grant)
 - **First Place** at IEEE Scratch Competition
 
