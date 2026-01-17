@@ -25,7 +25,7 @@ class DataAnalyst:
     def __init__(self):
         self.name = "Thu Rein Linn"
         self.role = "Data Analyst & Computational Researcher"
-        self.education = "Drexel University - Computer Science (GPA: 3.84)"
+        self.education = "Drexel University - Computer Science"
         self.graduation = "June 2029"
         self.location = "Philadelphia, PA"
         
