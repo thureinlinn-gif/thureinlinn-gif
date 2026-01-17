@@ -194,13 +194,13 @@ Python simulations
 |---------|-------------|--------|
 | **🏥 [NexaHealth](https://github.com/thureinlinn-gif/NexaHealth-Project)** - ML Wound Assessment | TensorFlow, Python, OpenCV | Hackathon winner, VC pitch |
 | **🧘 [MindEd](https://github.com/thureinlinn-gif/MindEd)** - Mental Wellness AI | React, TypeScript, Gemini API | 0-100% health scoring |
-| **🏦 Banking System** - Java Application | Java, JUnit, OOP | 98% line coverage, 300+ tests |
-| **🗺️ Pizza Map** - Interactive Web App | JavaScript, Google Maps API | 35% discoverability increase |
-| **📦 Smart Inventory** - Real-time Dashboard | JavaScript, HTML, CSS, Camera API | 20% usability improvement |
-| **♻️ EcoDragon Quest** - Gamified Sustainability App | HTML, CSS, JavaScript, Chart.js, Gemini API | 15% engagement boost, 40+ users |
-| **🧬 STAR Scholars** - Neuroscience Simulation | Python, Data Processing | 88-90% accuracy in behavioral modeling |
-| **💾 Grades Database** - C Programming | C, Data Structures, Valgrind | Command-line CRUD system |
-| **📁 Directory Indexer** - Bash Automation | Bash, JSON, jq | System admin tool |
+| **🏦 [Banking System](https://github.com/thureinlinn-gif/Banking_App_with_TDD)** - Java Application | Java, JUnit, OOP | 98% line coverage, 300+ tests |
+| **🗺️ [Pizza Map](https://github.com/thureinlinn-gif/Pizza-Map)** - Interactive Web App | JavaScript, Google Maps API | 35% discoverability increase |
+| **📦 [Smart Inventory](https://github.com/thureinlinn-gif/SMART-Inventory-Management-System)** - Real-time Dashboard | JavaScript, HTML, CSS, Camera API | 20% usability improvement |
+| **♻️ [EcoDragon Quest](https://github.com/thureinlinn-gif/EcoDragon-Quest)** - Gamified Sustainability App | HTML, CSS, JavaScript, Chart.js, Gemini API | 15% engagement boost, 40+ users |
+| **🧬 [STAR Scholars](https://github.com/thureinlinn-gif/Drexel_STAR_Research_Project)** - Neuroscience Simulation | Python, Data Processing | 88-90% accuracy in behavioral modeling |
+| **💾 [Grades Database](https://github.com/thureinlinn-gif/Interactive-Grades-Database)** - C Programming | C, Data Structures, Valgrind | Command-line CRUD system |
+| **📁 [Directory Indexer](https://github.com/thureinlinn-gif/Recursive-Directory-Indexer)** - Bash Automation | Bash, JSON, jq | System admin tool |
 
 </div>
 
