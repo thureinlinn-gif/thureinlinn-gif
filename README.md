@@ -297,7 +297,7 @@ CS570 Graduate Course
 
 <div align="center">
 
-### 💼 Open Roles I'm Targeting
+### 💼 Open Roles I'm flexible and eager to contribute and learn generally
 **AI/ML:** AI Developer • ML Engineer • Data Scientist • Research Scientist  
 **Software Engineering:** Full-Stack Developer • Frontend Engineer •Backend Engineer • Software Engineer • QA Engineer  
 **IT/Systems:** IT Support Specialist • Systems Administrator • Database Administrator • Technical Support
