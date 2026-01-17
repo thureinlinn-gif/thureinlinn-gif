@@ -60,7 +60,7 @@ in **36-hour** sprints
 <td width="25%" align="center">
   
 ### 🏆 Academic Excellence
-**3.84 GPA**, Dean's List  
+**3.8+ GPA**, Dean's List  
 First Place IEEE Winner
 
 </td>
