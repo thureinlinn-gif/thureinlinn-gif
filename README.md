@@ -196,6 +196,9 @@ Python simulations
 | **🧘 [MindEd](https://github.com/thureinlinn-gif/MindEd)** - Mental Wellness AI | React, TypeScript, Gemini API | 0-100% health scoring |
 | **🏦 Banking System** - Java Application | Java, JUnit, OOP | 98% line coverage, 300+ tests |
 | **🗺️ Pizza Map** - Interactive Web App | JavaScript, Google Maps API | 35% discoverability increase |
+| **📦 Smart Inventory** - Real-time Dashboard | JavaScript, HTML, CSS, Camera API | 20% usability improvement |
+| **♻️ EcoDragon Quest** - Gamified Sustainability App | HTML, CSS, JavaScript, Chart.js, Gemini API | 15% engagement boost, 40+ users |
+| **🧬 STAR Scholars** - Neuroscience Simulation | Python, Data Processing | 88-90% accuracy in behavioral modeling |
 | **💾 Grades Database** - C Programming | C, Data Structures, Valgrind | Command-line CRUD system |
 | **📁 Directory Indexer** - Bash Automation | Bash, JSON, jq | System admin tool |
 
